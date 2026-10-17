@@ -21,4 +21,4 @@ Dependencies are imported in the notebook; `pyreadstat` is installed by its setu
 
 M. N. Mohamad et al., “The prevalence of diabetes amongst young Emirati female adults in the United Arab Emirates: A cross-sectional study,” PLOS ONE, 16(6), e0252884, 2021. https://doi.org/10.1371/journal.pone.0252884
 
-This exploratory secondary analysis classifies current dataset-defined glycemic status. It requires independent validation before clinical use.
+T
