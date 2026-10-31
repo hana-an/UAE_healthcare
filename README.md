@@ -2,7 +2,7 @@
 
 Code for **Incremental Predictive Value of Routine Biomarkers for Abnormal Glycemic Status in Young Emirati Women**.
 
-Authors: Hanan Hussain, Syama K, and Razia Sulatana.
+Authors: Hanan Hussain, Syama K, and Sanju Xaviar.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hana-an/UAE_healthcare/blob/main/UAE_Healthcare_Prediction.ipynb)
 
