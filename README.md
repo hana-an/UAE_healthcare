@@ -15,10 +15,10 @@ Authors: Hanan Hussain, Syama K, and Sanju Xaviar.
 
 The notebook compares six conventional classifiers and a small MLP, basic and extended predictors, original and cleaned measurements, training-only threshold selection, and biomarker groups. It uses three repetitions of stratified five-fold cross-validation and saves CSV results under the project folder's `runs/` directory. Section 10 can also run independently for the biomarker analysis.
 
-Dependencies are imported in the notebook; `pyreadstat` is installed by its setup cell. Published outputs were generated with fixed seeds 2026, 2027, and 2028. Notebook outputs are cleared for a clean rerun; each run records its results and environment information.
+Dependencies are imported in the notebook; `pyreadstat` is installed by its setup cell. 
+Notebook outputs are cleared for a clean rerun; each run records its results and environment information.
 
 ## Dataset citation
 
 M. N. Mohamad et al., “The prevalence of diabetes amongst young Emirati female adults in the United Arab Emirates: A cross-sectional study,” PLOS ONE, 16(6), e0252884, 2021. https://doi.org/10.1371/journal.pone.0252884
 
-T
